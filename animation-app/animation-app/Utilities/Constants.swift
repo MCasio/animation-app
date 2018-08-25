@@ -7,3 +7,6 @@
 //
 
 import Foundation
+
+let TO_DETAIL_VC = "toDetailVC"
+let ANIMATION_CELL = "animationCell"
